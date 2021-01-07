@@ -9,5 +9,6 @@ public class LoginModuleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LoginModuleApplication.class, args);
 	}
+	// First Edutrain
 
 }
